@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1608483762 source:c:\users\hp\desktop\bank_database\main.c
+	"bank.h"
+
+1608484442 source:c:\users\hp\desktop\bank_database\bank.c
+	"bank.h"
+
+1608481620 c:\users\hp\desktop\bank_database\bank.h
+	<stdio.h>
+	<stdlib.h>
+
+1608489255 source:c:\users\hp\onedrive\desktop\bank_database\bank.c
+	"bank.h"
+
+1608489422 c:\users\hp\onedrive\desktop\bank_database\bank.h
+	<stdio.h>
+	<stdlib.h>
+
+1608488911 source:c:\users\hp\onedrive\desktop\bank_database\main.c
+	"bank.h"
+
